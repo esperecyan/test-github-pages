@@ -1,0 +1,17 @@
+{
+	"name": "VPM Debug Repository for 100の人",
+	"author": "100の人",
+	"url": "https://esperecyan.github.io/VRMConverterForVRChat/registry.json",
+	"id": "jp.pokemori.debug-vpm.registry",
+	"packages": {
+		"com.virtualcast.univci": {
+			"versions": {
+				"0.41.1": {
+					"name": "com.virtualcast.univci",
+					"version": "0.41.1",
+					"url": "https://package.openupm.com/com.virtualcast.univci/-/com.virtualcast.univci-0.41.1.tgz"
+				}
+			}
+		}
+	}
+}
